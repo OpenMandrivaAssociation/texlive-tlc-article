@@ -3,7 +3,7 @@ Version:	51431
 Release:	2
 Summary:	A LaTeX document class for formal documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tlc-article
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tlc-article
 License:	bsd3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tlc-article.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tlc-article.doc.r%{version}.tar.xz
